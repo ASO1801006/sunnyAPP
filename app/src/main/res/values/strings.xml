@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sunny</string>
+    <string name="add_plan">予定追加</string>
+    <string name="log_out">戻る</string>
+    <string name="ameritu_score">スコア</string>
+    <string name="ranking_name">ランキング</string>
+    <string name="total_precipitation">総降水量</string>
+
+    <string name="signed_in_fmt">ユーザー名 : %s</string>
+    <string name="signed_in">Signed in</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="signed_out">Logged out</string>
+    <string name="signed_in_err">"Error: please check logs."</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detail_name">detailに遷移</string>
+    <string name="unknown">表示するためのデータが足りません</string>
+    <string name="score">あなたのスコアはXX</string>
+    <string name="no_user_data">No user data</string>
+
+    <string name="event_name">イベント名</string>
+    <string name="time_start">開始時間</string>
+    <string name="time_finish">終了時間</string>
+    <string name="postal_code">場所</string>
+    <string name="details">説明</string>
+    <string name="return_screen">戻る</string>
+    <string name="sunny_or_rainy">Sunny?\nor\nRainy?</string>
+</resources>

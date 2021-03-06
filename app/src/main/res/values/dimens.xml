@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_width">114dp</dimen>
+    <dimen name="button_height">55dp</dimen>
+    <dimen name="ameritu_score_height">360dp</dimen>
+    <dimen name="ameritu_score_width">360dp</dimen>
+    <dimen name="ranking_width">360dp</dimen>
+    <dimen name="ranking_height">480dp</dimen>
+    <dimen name="total_precipitation_width">360dp</dimen>
+    <dimen name="total_precipitation_height">480dp</dimen>
+</resources>
